@@ -101,6 +101,7 @@ header div{
 .topSection{
 	display:flex;
 	justify-content: center;
+	padding-left:15px;
 	
 }
 .topSection div{
@@ -132,4 +133,11 @@ header div{
 .contact{
 	display:flex;
 	flex-direction:column;
+	padding-left:15px;
+	padding-bottom:30px;
+	padding-top:30px;
+}
 
+footer{
+	text-align:center;
+}
