@@ -144,6 +144,7 @@ header div{
 
 footer{
 	text-align:center;
+	padding:15px;
 }
 /* END OF HOME PAGE CSS */
 
@@ -202,3 +203,6 @@ ul{
 	width:375px;
 	
 }
+a{
+	text-decoration:none;
+	color:black;
