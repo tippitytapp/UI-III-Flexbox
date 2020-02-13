@@ -205,4 +205,28 @@ ul{
 }
 a{
 	text-decoration:none;
-	color:black;
+	color:black;}
+
+
+	/* END OF SERVICES CSS */
+
+	.featuresHeader{
+		display:flex;
+		flex-direction:column;
+		padding-top:15px;
+		border-bottom:2px solid black;
+		padding-bottom:15px;
+	}
+
+	.feature1, .feature2, .feature3, .feature4{
+		width:350px;
+		display:flex;
+		flex-direction:column;
+		margin:20px;
+	}
+
+	.indFeatures{
+		display:flex;
+		flex-wrap:wrap;
+		justify-content:space-around;
+	}
